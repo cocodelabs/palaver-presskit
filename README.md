@@ -1,4 +1,3 @@
-palaver-support
-===============
+Palaver Press Kit
+=================
 
-Supporting Files &amp; Artwork for Palaver
