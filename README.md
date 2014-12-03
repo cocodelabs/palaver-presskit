@@ -7,12 +7,12 @@ For press inquiries, please contact support@palaverapp.com.
 
 <img src="Icons/1024.png" alt="Palaver Application Icon" width=128 height=128 />
 
-> Palaver is an advanced IRC client for iOS featuring a unique user interface
-> which makes using IRC a pleasure. It fits you and your mobile devices
-> perfectly. You can use Palaver on the large screen of the iPad or on the road
-> with your iPhone. Palaver was made with the modern IRC user in mind and
-> features iCloud support, ZNC integration with push notifications, and much
-> more.
+Palaver is an advanced IRC client for iOS featuring a unique user interface
+hich makes using IRC a pleasure. It fits you and your mobile devices
+perfectly. You can use Palaver on the large screen of the iPad or on the road
+with your iPhone. Palaver was made with the modern IRC user in mind and
+features iCloud support, ZNC integration with push notifications, and much
+more.
 
 ---
 
