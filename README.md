@@ -30,6 +30,22 @@ Palaver is a modern IRC client for iPhone and iPad featuring a unique user inter
 - Synchronisation of preferences via iCloud.
 - IRCv3 compliant.
 
+### Japanese
+
+PalaverはiPhoneとiPadの近代的なIRCクライアントです。一流ユーザーインターフェイスあります。携帯機器ならジャストフィット間違いないです。PalaverはiPadの大画面と小さなiPhoneの画面を活かします。このアップは近代的なIRCユーザーに向いています。IRCv3や「ZNC」やPush通知などの完全対応をあります。
+
+#### Features
+
+- 迅速で直感的なGUI
+- ニックネームとチャンネルとコマンドの自動補完
+- 論及とハイライトの通知をカスタム化
+- しっかりとネットワークにつなぐためにSASL完全対応。例えば、Freenode。
+- 広範囲な画題と風格のリスト
+- ZNC統合
+- Push通知（ZNCのプログラム単位インストールすることによって通知を受ける。https://github.com/palaver/znc-palaver 開く）
+- 設定をiCloudで同期
+- IRCv3完全対応
+
 ### Dutch
 
 Palaver is een geavanceerde IRC-client voor iPhone en iPad, met en unieke gebruikersinterface die ontworpen is met oog voor de gebruiker. Je kunt Palaver gebruiken op het grote scherm van je iPad of onderweg met uw iPhone. Palaver is gemaakt met de moderne IRC gebruiker in gedachten en beschikt over iCloud ondersteuning, ZNC integratie met push notificaties, en veel meer.
