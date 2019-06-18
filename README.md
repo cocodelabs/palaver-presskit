@@ -76,3 +76,19 @@ Palaver ist ein fortschrittlicher IRC Client für iPhone und iPad, mit einer ein
 - ZNC Integration, unterstützt neue Server-Zeit Spezifikation in ZNC 1.0+ Push-Benachrichtigungen (mit einem Modul für ZNC, siehe: https://github.com/palaver/znc-palaver)
 - Synchronisation der Einstellungen mit iCloud
 - IRCv3 konform
+
+### Spanish
+
+Palaver es un cliente moderno de IRC para iPhone e iPad que presenta una interfaz de usuario única la cual hace del uso de IRC un placer. Adaptada perfectamente a sus dispositivos móviles siendo posible utilizar Palaver en dispositivos de gran tamaño como iPad, o de camino a cualquier parte con iPhone. Palaver ha sido desarrollado teniendo en cuenta a los usuarios de IRC más modernos. Nuestra app proporciona soporte para IRCv3, integración ZNC, notificaciones push, y mucho más.
+
+#### Features
+
+- Interfaz rápida e intuitiva.
+- Autocompletado para apodos, canales y comandos.
+- Highlights y menciones personalizables con alertas y vibraciones.
+- Soporte completo de SASL para identificación segura de redes tales como Freenode.
+- Amplio abanico de temas y estilos para elegir.
+- Integración con ZNC.
+- Notificaciones push (con un módulo para ZNC, ver: https://github.com/palaver/znc-palaver).
+- Sincronización de preferencias a través de iCloud.
+- Compatible con IRCv3.
