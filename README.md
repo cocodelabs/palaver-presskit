@@ -109,3 +109,20 @@ Palaver è un moderno IRC client per IPhone e iPad, che vanta di un’interfacci
 - Notifiche push (con modulo per ZNC, vedi https://github.com/palaver/znc-palaver).
 - Sincronizzazione di preferenze via iCloud.
 - Conforme a IRCv3.
+
+
+### Chinese
+
+Palaver是一个为iPhone和iPad开发的IRC客户端，其独特的应用界面使IRC聊天变的便捷。Palaver能完美适配你的移动设备。你可以在iPad的大屏幕上使用Palaver，或者在上班途中用iPhone使用Palaver。Palaver给予当下的IRC用户的需求设计，包含IRCv3支持，集成ZNC，推送等特性。
+
+#### 特性
+
+- 快捷和直观的界面
+- 自动填充昵称，频道和命令
+- 通过响铃和震动进行自定义的高亮和提醒
+- 完整的SASL支持，以保障在不同网络（比如Freenode）上的隐私认证
+- 大量主题和格式可供选择
+- ZNC集成
+- 推送通知（使用ZNC模块，详见https://github.com/palaver/znc-palaver）
+- iCloud云同步偏好设置
+- 兼容IRCv3
